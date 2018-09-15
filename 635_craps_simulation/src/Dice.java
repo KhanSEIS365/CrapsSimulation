@@ -18,6 +18,7 @@ public class Dice
 
 	// Constructors (object initializers) also can be declared anywhere
 	// Convention: after instance fields/variables
+	// my new file
 
 	public Dice()
 	{
